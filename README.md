@@ -1,92 +1,75 @@
-# Hi, I'm Shivam Kumar Lal 👋
+# 💫 About Me
+Hi! I'm **Shivam Kumar Lal** 👋  
+A passionate **Software Developer** and **Full-Stack Engineer** with a love for building scalable applications, automating workflows, and exploring AI/ML solutions. I enjoy contributing to **open-source projects**, solving **complex problems**, and continuously learning new technologies.  
 
-I'm a **B.Tech student** in **Computer Science and Engineering** at **Vivekananda Institute of Professional Studies**, Delhi, with a passion for **Software Development**, **Machine Learning**, and **Cybersecurity**. I’m constantly learning and building new projects to expand my skill set.
-
-## 🏫 Education
-
-**Vivekananda Institute of Professional Studies - GGSIPU, Delhi**  
-**Pursuing B.Tech in Computer Science and Engineering**  
-*Expected July 2026*
-
-Relevant Coursework:
-- Data Structures and Algorithms (C++)
-- Database (MySQL)
-- Probability, Statistics, and Linear Programming
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
-
-**D.A.V Public School, Jasola Vihar, New Delhi**  
-Senior Secondary (12th) - **95.6%**  
-Secondary (10th) - **93.5%**
+📍 Based in Delhi, India | 🎓 B.Tech CSE (2026)  
+💻 5+ projects | 450+ DSA problems solved | ☁️ AWS & DevOps enthusiast
 
 ---
 
-## 🛠️ Skills
-
-- **Programming Languages**: C, C++, Python, Java, JavaScript, R
-- **Web & Frameworks**: React.js, Node.js, Bootstrap, MERN
-- **DevOps**: AWS, Docker
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, Jupyter Notebook, Google Colab, GitHub
-- **Operating Systems**: Windows, Linux
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lalshivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalshivam&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="50%" height="200px"/><br/>
+<img src="https://ghchart.rshah.org/Lalshivam" width="100%"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://instagram.com/shivamlal2412">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/shivam-kumar-lal-390a57257/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://x.com/ShivamkumarLal">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="mailto:shivamlal2412@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+</p>
 
-### [GupShup | MERN Stack Real-Time Chat Application](#)  
-- **Tech Stack**: MERN (MongoDB, Express, React, Node.js), WebSockets
-- Built a scalable real-time chat application supporting 100+ concurrent users with a socket-based architecture.
-- Implemented a responsive UI using DaisyUI for a modern and intuitive user experience.
-- Utilized WebSockets for real-time communication and message synchronization across users.
+---
+## 💻 Tech Stack
 
-### [Cardiovascular Disease Predictor](https://github.com/yourusername/Cardiovascular-Disease-Predictor)  
-- **Tech Stack**: Python, Jupyter Notebook, Flask, HTML, CSS
-- Developed a machine learning model using the Framingham Heart Study dataset, achieving **97% accuracy** with RandomForestClassifier.
-- Evaluated and compared six classification algorithms, selecting the optimal model based on precision and recall metrics.
-- Deployed the model as an interactive web application using Flask for real-time cardiovascular risk assessment.
+<p align="center">
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<br/>
+
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+<br/>
+
+<!-- Web & Frameworks -->
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+<br/>
+
+<!-- Databases & Servers -->
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamlal2412&show_icons=true&theme=dark)
-
----
-
-## 🎓 Certifications
-
-- **Google CyberSecurity Specialization** - Coursera  
-  Completed 8-course series covering Cybersecurity Fundamentals, Threat Analysis, Network & System Security, Incident Response, Cloud Security, and Ethical Hacking.
-
-- **Information Security-5: Secure Systems Engineering** - IIT Madras  
-- **Student Development Program on Cyber Security (Web Hacking)** - IIT Kanpur  
-
----
-
-## 🏆 Achievements
-
-- **LeetCode**: Active with **400+ problems solved**; regularly participate in coding contests and rank among the top 20%.
-- **Academic Performance**: Consistently ranked among the **top 20%** in academic performance at VIPS-TC.
-
----
-
-## 💼 Extracurricular Experience
-
-### **CODEVSET | Member**  
-**VIPS-TC** | March 2024 – Present  
-- Actively participating in the technical society to contribute to the development of events and initiatives that promote the technical community at VIPS-TC.
-
----
-
-## 📫 Contact Me
-- **Phone**: +91 8595561813
-- **Email**: [shivamlal2412@gmail.com](mailto:shivamlal2412@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shivam-kumar-lal-390a57257/)
-- **LeetCode**: [LeetCode Profile](https://leetcode.com/u/shivamkumarlal)
-- **GitHub**: [GitHub Profile](https://github.com/Lalshivam/)
-
----
+✨ *Proudly built with ❤️, Markdown & lots of code!*  
 
 Feel free to reach out for collaborations, open-source contributions, or just to chat about tech! 😊
