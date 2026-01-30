@@ -8,7 +8,7 @@ A passionate **Software Developer** and **Full-Stack Engineer** with a love for 
 ---
 
 ##  Projects
-<ul align="center">
+<ul>
    <li>
     <b><a href="https://github.com/Lalshivam/MathVis">Math_Vis</a></b> - AI-powered interactive math tutoring platform with dynamic visualizations and Google Gemini AI integration.  
     <a href="https://ai-tutor-frontend-buua.onrender.com">Live Demo</a>
@@ -35,16 +35,6 @@ A passionate **Software Developer** and **Full-Stack Engineer** with a love for 
 
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Lalshivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalshivam&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="50%" height="200px"/><br/> -->
-<img src="https://ghchart.rshah.org/Lalshivam" width="100%"/>
-</p>
-
----
-
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -100,6 +90,5 @@ A passionate **Software Developer** and **Full-Stack Engineer** with a love for 
 
 ---
 
-✨ *Proudly built with ❤️, Markdown & lots of code!*  
 
 Feel free to reach out for collaborations, open-source contributions, or just to chat about tech! 😊
