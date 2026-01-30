@@ -7,14 +7,44 @@ A passionate **Software Developer** and **Full-Stack Engineer** with a love for 
 
 ---
 
+##  Projects
+<ul align="center">
+   <li>
+    <b><a href="https://github.com/Lalshivam/MathVis">Math_Vis</a></b> - AI-powered interactive math tutoring platform with dynamic visualizations and Google Gemini AI integration.  
+    <a href="https://ai-tutor-frontend-buua.onrender.com">Live Demo</a>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Lalshivam/chefGemini">Chef Gemini</a></b> - A single-page application for AI-powered recipe generation using React.js and Gemini API.  
+    <a href="https://chefgemini.onrender.com">Live Demo</a>
+  </li>
+<br/>
+  <li>
+    <b><a href="https://github.com/Lalshivam/GupShup">GupShup</a></b> - A MERN-based Scalable real-time chat app supporting 100+ concurrent users with socket-based architecture.  
+    <a href="https://gupshup-skal.onrender.com">Live Demo</a>
+  </li>
+<br/>
+  <li>
+    <b><a href="https://github.com/Lalshivam/Violet_Rooms">Violet Rooms </a></b> - Real-time anonymous group chat with secure communication using React and Socket.IO.  
+    <a href="https://violet-rooms.onrender.com">Live Demo</a>
+  </li>
+
+</ul>
+
+
+
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lalshivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalshivam&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="50%" height="200px"/><br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Lalshivam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalshivam&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="50%" height="200px"/><br/> -->
 <img src="https://ghchart.rshah.org/Lalshivam" width="100%"/>
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 <p align="center">
